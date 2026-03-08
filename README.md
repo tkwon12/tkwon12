@@ -13,4 +13,7 @@ Computer Science Graduate (University of Maryland)
 - Solving LeetCode (focused on patterns)
 
 ## Projects
-- (Coming Soon)
+- Binary Search Tree Implementation
+- KD-Tree with KNN Search
+- B-Tree Implementation
+- Splay Tree Implementation
